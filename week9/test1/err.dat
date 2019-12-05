@@ -1,0 +1,10 @@
+
+Command 'evn' not found, did you mean:
+
+  command 'env' from deb coreutils
+  command 'svn' from deb subversion
+  command 'eqn' from deb groff-base
+  command 'mvn' from deb maven
+
+Try: sudo apt install <deb name>
+

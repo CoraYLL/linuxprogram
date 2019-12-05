@@ -1,0 +1,7 @@
+first
+	bianyi gcc 
+after
+	running
+final
+	tail -f ./tmp/shou_zhu.log
+
