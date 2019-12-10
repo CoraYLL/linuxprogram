@@ -11,3 +11,9 @@
 #include <time.h>
 #include <pthread.h>
 #include <limits.h>
+struct sendval{
+	int n;
+	int s;
+
+};
+#define NUM 4
