@@ -11,7 +11,8 @@
 #include <time.h>
 #include <pthread.h>
 #include <limits.h>
-
+#include <semaphore.h>
 #define LOOP 10000000
 #define NUM 4 
 #define NT 100
+
